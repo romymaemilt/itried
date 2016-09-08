@@ -16,7 +16,7 @@ public class ItsGettingBetter extends Applet {
         g.setColor(Color.red);
         g.fillRect(125,100,500,100);
         g.setColor(Color.black);
-        g.drawRect(125,200,500,100);
+        g.drawRect(124,200,500,100);
         g.setColor(Color.blue);
         g.fillRect(125,300,500,100);
 
